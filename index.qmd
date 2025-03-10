@@ -1,17 +1,25 @@
 ---
-title: "personal-website"
+title: "Saul Magallon"
+about:
+  template: trestles
+  image: me.jpg
+  links:
+    - text: Email
+      url: "mailto:saulmagallon@gmail.com"
+    - icon: github
+      text: Github
+      href: https://github.com/smagallonsoto
+toc: false
 ---
 
-This is a Quarto website.
+Saul Magallon is a fourth-year UCLA student focused on becoming great at data analysis. When he's not diving into complex datasets, he channels his competitive energy into video gaming.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Saul's [Resume](/resume.pdf)
 
-```{r}
-var = 2 + 3
-var
-```
+## Education
 
-```{r}
-new = 1 + 1
-new
-```
+University of California, Los Angeles \| Los Angeles, CA Bachelors Degree in Statistics & Data Science \| September 2023 - June 2025
+
+## Experience
+
+Projects

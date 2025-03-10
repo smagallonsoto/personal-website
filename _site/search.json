@@ -1,16 +1,51 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal-website",
+    "title": "Saul Magallon",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nvar = 2 + 3\nvar\n\n[1] 5\n\n\n\nnew = 1 + 1\nnew\n\n[1] 2"
+    "text": "Saul Magallon is a fourth-year UCLA student focused on becoming great at data analysis. When he’s not diving into complex datasets, he channels his competitive energy into video gaming.\nSaul’s Resume"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Saul Magallon",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA Bachelors Degree in Statistics & Data Science | September 2023 - June 2025"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Saul Magallon",
+    "section": "Experience",
+    "text": "Experience\nProjects"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Saul",
+    "section": "",
+    "text": "Project 1 will be listed down below when I have access their information back home"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Saul",
+    "section": "",
+    "text": "Project 1 will be listed down below when I have access their information back home"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Saul",
+    "section": "Project 2",
+    "text": "Project 2\nProject 2 will be listed down below when I have access their information back home"
+  },
+  {
+    "objectID": "projects.html#project-3",
+    "href": "projects.html#project-3",
+    "title": "Saul",
+    "section": "Project 3",
+    "text": "Project 3\nProject 3 will be listed down below when I have access their information back home"
   }
 ]
