@@ -8,7 +8,9 @@ about:
       url: "mailto:saulmagallon@gmail.com"
     - icon: github
       text: Github
-      href: https://github.com/smagallonsoto
+      href: https://github.com/smagallonsot
+    - text: Linkedin
+      href: https://www.linkedin.com/in/saul-magallon-a261582a2/
 toc: false
 ---
 
