@@ -8,20 +8,20 @@ about:
       url: "mailto:saulmagallon@gmail.com"
     - icon: github
       text: Github
-      href: https://github.com/smagallonsot
+      href: https://github.com/smagallonsoto
     - text: Linkedin
       href: https://www.linkedin.com/in/saul-magallon-a261582a2/
 toc: false
 ---
 
+## About Saul
+
 Saul Magallon is a fourth-year UCLA student focused on becoming great at data analysis. When he's not diving into complex datasets, he channels his competitive energy into video gaming.
 
-Saul's [Resume](/resume.pdf)
+## Resume
+
+Here is a look at Saul's [Resume](/resume.pdf), feel free to download it!
 
 ## Education
 
-University of California, Los Angeles \| Los Angeles, CA Bachelors Degree in Statistics & Data Science \| September 2023 - June 2025
-
-## Experience
-
-Projects
+University of California, Los Angeles \| Los Angeles, CA Bachelors Degree in Statistics & Data Science \| June 2025

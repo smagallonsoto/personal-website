@@ -9,6 +9,8 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
+      - href: education.qmd
+        text: Education
 
 format:
   html:

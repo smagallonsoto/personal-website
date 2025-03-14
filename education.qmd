@@ -1,0 +1,15 @@
+---
+toc: false
+---
+
+## B.A. Statistics and Data Science
+
+Click [here](/bastatistics.qmd) for more information about my Bachelor's degree and the relevant courses that I have taken.
+
+## AS-T in Mathematics
+
+Click [here](/aa.qmd) for more information about my Associate of Science for Transfer (AS-T) in Mathematics.
+
+## **Language Proficiencies**
+
+Click [here](/language.qmd) for more about my language skills and experiences.

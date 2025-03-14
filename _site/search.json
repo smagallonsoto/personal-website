@@ -1,24 +1,59 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Saul Magallon",
+    "objectID": "language.html#native-english-fluency",
+    "href": "language.html#native-english-fluency",
+    "title": "Saul",
+    "section": "Native English Fluency",
+    "text": "Native English Fluency\nAchieved native-level proficiency, having primarily used English academically, professionally, and socially since early childhood."
+  },
+  {
+    "objectID": "language.html#advanced-spanish-proficiency",
+    "href": "language.html#advanced-spanish-proficiency",
+    "title": "Saul",
+    "section": "Advanced Spanish Proficiency",
+    "text": "Advanced Spanish Proficiency\nSpanish was my first language, spoken exclusively at home until preschool. I maintain strong fluency and confidently use it in both personal and professional contexts."
+  },
+  {
+    "objectID": "language.html#learning-portuguese",
+    "href": "language.html#learning-portuguese",
+    "title": "Saul",
+    "section": "Learning Portuguese",
+    "text": "Learning Portuguese\nCurrently pursuing proficiency in Portuguese through online courses, driven by a personal interest in expanding my linguistics."
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Saul",
     "section": "",
-    "text": "Saul Magallon is a fourth-year UCLA student focused on becoming great at data analysis. When he’s not diving into complex datasets, he channels his competitive energy into video gaming.\nSaul’s Resume"
+    "text": "Click here for more information about my Bachelor’s degree and the relevant courses that I have taken."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Saul Magallon",
-    "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA Bachelors Degree in Statistics & Data Science | September 2023 - June 2025"
+    "objectID": "education.html#b.a.-statistics-and-data-science",
+    "href": "education.html#b.a.-statistics-and-data-science",
+    "title": "Saul",
+    "section": "",
+    "text": "Click here for more information about my Bachelor’s degree and the relevant courses that I have taken."
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Saul Magallon",
-    "section": "Experience",
-    "text": "Experience\nProjects"
+    "objectID": "education.html#as-t-in-mathematics",
+    "href": "education.html#as-t-in-mathematics",
+    "title": "Saul",
+    "section": "AS-T in Mathematics",
+    "text": "AS-T in Mathematics\nClick here for more information about my Associate of Science for Transfer (AS-T) in Mathematics."
+  },
+  {
+    "objectID": "education.html#language-proficiencies",
+    "href": "education.html#language-proficiencies",
+    "title": "Saul",
+    "section": "Language Proficiencies",
+    "text": "Language Proficiencies\nClick here for more about my language skills and experiences."
+  },
+  {
+    "objectID": "aa.html#associate-of-science-for-transfer-in-mathematics",
+    "href": "aa.html#associate-of-science-for-transfer-in-mathematics",
+    "title": "Saul",
+    "section": "Associate of Science for Transfer in Mathematics",
+    "text": "Associate of Science for Transfer in Mathematics\nIn June 2023, I reached a major milestone by earning my Associate of Science for Transfer (AS-T) degree in Mathematics from Foothill College. My curiosity and passion for math began early and grew significantly during my time at Foothill, preparing me for advanced studies at UCLA in Statistics and Data Science. I’ve also enjoyed tutoring mathematics, which continually fuels my enthusiasm for the subject and helps me share its value with others."
   },
   {
     "objectID": "projects.html",
@@ -47,5 +82,54 @@
     "title": "Saul",
     "section": "Project 3",
     "text": "Project 3\nProject 3 will be listed down below when I have access their information back home"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Saul Magallon",
+    "section": "",
+    "text": "Saul Magallon is a fourth-year UCLA student focused on becoming great at data analysis. When he’s not diving into complex datasets, he channels his competitive energy into video gaming."
+  },
+  {
+    "objectID": "index.html#about-saul",
+    "href": "index.html#about-saul",
+    "title": "Saul Magallon",
+    "section": "",
+    "text": "Saul Magallon is a fourth-year UCLA student focused on becoming great at data analysis. When he’s not diving into complex datasets, he channels his competitive energy into video gaming."
+  },
+  {
+    "objectID": "index.html#resume",
+    "href": "index.html#resume",
+    "title": "Saul Magallon",
+    "section": "Resume",
+    "text": "Resume\nHere is a look at Saul’s Resume, feel free to download it!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Saul Magallon",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA Bachelors Degree in Statistics & Data Science | June 2025"
+  },
+  {
+    "objectID": "bastatistics.html#b.a.-statistics-and-data-science",
+    "href": "bastatistics.html#b.a.-statistics-and-data-science",
+    "title": "Saul",
+    "section": "B.A. Statistics and Data Science",
+    "text": "B.A. Statistics and Data Science\nI’m finishing up my Bachelor’s in Statistics and Data Science, and I really enjoy turning complicated data into clear, useful insights—basically making sense of the numbers so they tell a meaningful story. I focus on building predictive models, uncovering useful patterns, and solving real business problems. My goal is to work closely with teams who see analytics as a way to drive real results, growth, and innovation."
+  },
+  {
+    "objectID": "bastatistics.html#relevant-courses-taken",
+    "href": "bastatistics.html#relevant-courses-taken",
+    "title": "Saul",
+    "section": "Relevant courses taken:",
+    "text": "Relevant courses taken:\n\nMATH 31A: Differential and Integral Calculus\nMATH 31B: Integration and Infinite Series\nMATH 32A: Multivariable Calculus\nMATH 32B: Calculus of Several Variables\nMATH 33A: Linear Algebra and Applications\nMATH 151A: Applied Numerical Methods\nSTATS 167: Introduction to Databases\nSTATS 20: Introduction to Statistical Programming with R\nSTATS 100A: Introduction to Probability\nSTATS 100B: Introduction to Mathematical Statistics\nSTATS 100C: Linear Models\nSTATS 101A: Introduction to Data Analysis and Regression\nSTATS 101B: Introduction to Design and Analysis of Experiments\nSTATS 101C: Introduction to Statistical Models and Data Mining\nSTATS 102A: Introduction to Computational Statistics with R\nSTATS 102B: Introduction to Computation and Optimization\nSTATS 102C: Monte Carlo Methods\nSTATS 140XP: Practice of Statistical Consulting\nSTATS 141XP: Statistical Communication and Visualization"
+  },
+  {
+    "objectID": "language.html#language-proficiencies-and-skills",
+    "href": "language.html#language-proficiencies-and-skills",
+    "title": "Saul",
+    "section": "Language Proficiencies and Skills",
+    "text": "Language Proficiencies and Skills"
   }
 ]
